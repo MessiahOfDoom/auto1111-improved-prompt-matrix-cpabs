@@ -1,4 +1,4 @@
-# auto1111-improved-prompt-matrix
+# auto1111-improved-prompt-matrix-cpabs
 
 This script is [ArrowM/auto1111-improved-prompt-matrix](https://github.com/ArrowM/auto1111-improved-prompt-matrix) modified to support both `batch size` and `custom group symbols`.
 
